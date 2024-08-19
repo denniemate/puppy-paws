@@ -1,3 +1,12 @@
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=🐶&fontSize=50" />	
+</div>
+
+## PUPPY PAWS
+![image](https://github.com/user-attachments/assets/3a98d3eb-e25d-4c5b-9986-71d117407a00)
+
+https://www.puppy-paws.co.kr
+
 # backend
 
 ## 기술 스택
