@@ -107,9 +107,3 @@ spring:
 logging.level:
   org.hibernate.SQL: debug
 ```
-
-- 로컬에서 Docker로 서버 실행하기
-  - PostgreSQL, Redis는 로컬 피시에서 실행되고 있다는 가정하에 실행 합니다.
-```
-docker compose up -d .
-```
